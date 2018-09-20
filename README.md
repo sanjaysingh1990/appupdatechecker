@@ -18,3 +18,13 @@
   ```
 
 ## enable anonymous login 
+
+# Screens
+
+## force update
+<img src="https://image.ibb.co/iQ154z/Screenshot_20180920_142234.jpg" width="300" height="500">
+
+## simple update
+<img src="https://image.ibb.co/dkjQ4z/Screenshot_20180920_142219.jpg" width="300" height="500">
+
+
