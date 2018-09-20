@@ -5,5 +5,11 @@
     <string name="cancel">CANCEL</string>
     <string name="update">UPDATE</string>
     <string name="update_available">Update Available</string>
+    <string name="rate_title">Rate App</string>
+    <string name="rate_message">If you liked the app. Please rate it on play store.</string>
+    <string name="rate_positive">RATE</string>
+    <string name="rate_remind_later">LATER</string>
+    <string name="rate_never">NEVER</string>
+
 
 </resources>
