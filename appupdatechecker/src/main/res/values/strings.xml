@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">appupdatechecker</string>
+    <string name="please_update_app_to_new_version">Please, update app to new version</string>
+    <string name="update_app_message">New Update is available for application kindly update it.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="update">UPDATE</string>
+    <string name="update_available">Update Available</string>
+
+</resources>
